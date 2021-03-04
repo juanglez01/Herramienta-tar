@@ -3,7 +3,7 @@ En este proyecto, mi fin es definir y explicar la utilizacion de la herramienta 
 
 ## Índice:
 1.- Introducción.
-2.Instalación.
+2.Utilización de la Herramienta Tar.
 3.Ejemplos.
 
 ## Referencias:
