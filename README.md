@@ -3,8 +3,8 @@ En este proyecto, mi fin es definir y explicar la utilizacion de la herramienta 
 
 ## Índice:
 [1.- Introducción.](Introducción)
-2.Utilización más común de la herramie Tar.
-4.Ejemplos.
+[2.Utilización más común de la herramienta Tar.](
+[ 3.Ejemplos.](
 
 ## Referencias:
 Me he basado en una muy buena web  https://www.hostinger.es/tutoriales/como-usar-comando-tar-linux
