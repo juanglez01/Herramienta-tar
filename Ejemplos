@@ -1,7 +1,7 @@
 # 3.- Ejemplos:
 Voy a explicar un ejemplo que he realizado, os voy a dejar ilustraciones también para que vayais viendo como lo voy haciendo. En las ilustraciones tengo abierto a la derecha el termianl y a la izquierda Nautilux, el explorador de archivos de Linux.
 En primer lugar voy a crear una carpeta:
-![creamos una carpeta con mkdir]()
+![creamos una carpeta con mkdir](https://github.com/juanglez01/Herramienta-tar/blob/2da7d2d76fd0f889881d690326dacec884c2f20f/imagenes_tar/1.png)
 A continuación, crearemos dentro de esa carpeta dos archivos cualquiera, para hacer relleno.
 ![utilizamos touch para crear archivos]()
 Seguidamente, creamos otra carpeta con otro dos archivos en el mismo directorio de la primera carpeta.
