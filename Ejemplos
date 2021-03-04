@@ -1,3 +1,18 @@
 # 3.- Ejemplos:
 Voy a explicar un ejemplo que he realizado, os voy a dejar ilustraciones también para que vayais viendo como lo voy haciendo. En las ilustraciones tengo abierto a la derecha el termianl y a la izquierda Nautilux, el explorador de archivos de Linux.
 En primer lugar voy a crear una carpeta:
+![creamos una carpeta con mkdir]()
+A continuación, crearemos dentro de esa carpeta dos archivos cualquiera, para hacer relleno.
+![utilizamos touch para crear archivos]()
+Seguidamente, creamos otra carpeta con otro dos archivos en el mismo directorio de la primera carpeta.
+![creamos una carpeta con mkdir]()
+![utilizamos touch para crear archivos]()
+Una vez tengamos el entorno de trabajo preparado, emplearemos la herramienta tar. 
+Esta primera vez la utilizaremos para Empaquetar y comprimir:
+![Empaquetar y Comprimir con tar -zcvf archivo.tar.gz]()
+Para visualizar lo que se ha empaquetado y comprimido haremos lo siguiente:
+![Visualizar con tar -ztvf archivo]()
+Para desempaquetar y Descomprimir utilizaremos lo siguiente:
+![Desempaquetar y Descomprimir con tar -zxvf archivo]()
+Para Desempaquetar y Descomprimir en otro destino de donde se encuentra el .tar.gz utilizaremos:
+![Descomprimir y Desempaquetar en con tar -zxvf archivo -C destino]()
