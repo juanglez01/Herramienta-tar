@@ -1,5 +1,5 @@
-#  Empleo de la herramienta Zip
-En este proyecto, mi fin es definir y explicar la utilizacion de la herramienta zip en la línea de comandos de linux y demás Sistemas Operativos ya que es multiplataforma.
+#  Empleo de la herramienta tar.
+En este proyecto, mi fin es definir y explicar la utilizacion de la herramienta tar tanto para el Sistema operativo Linux como para Windows ya que es una herramient multiplataforma.
 
 ## Índice:
 1.- Introducción.
@@ -7,4 +7,4 @@ En este proyecto, mi fin es definir y explicar la utilizacion de la herramienta 
 3.Ejemplos.
 
 ## Referencias:
-Me he basado en una muy buena web https://www.sololinux.es/como-usar-zip-en-linux/
+Me he basado en una muy buena web  https://www.hostinger.es/tutoriales/como-usar-comando-tar-linux
